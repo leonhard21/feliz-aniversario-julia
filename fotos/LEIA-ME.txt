@@ -1,0 +1,16 @@
+Coloque aqui as fotos dos photocards, com estes nomes exatos (tudo minúsculo, sem espaço):
+
+rm.jpg
+jin.jpg
+suga.jpg
+jhope.jpg
+jimin.jpg
+v.jpg
+jungkook.jpg
+
+Também funcionam .jpeg, .png e .webp (ex.: jimin.png).
+Formato ideal: vertical, proporção de photocard (55 x 85), por exemplo 550 x 850 pixels.
+A foto preenche o card inteiro; o que sobrar nas bordas é cortado.
+Se uma foto faltar, o card mostra o desenho original.
+
+Lembre de conferir a licença de cada foto e de dar o crédito ao fotógrafo quando a licença pedir.

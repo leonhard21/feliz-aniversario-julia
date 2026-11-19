@@ -1,0 +1,11 @@
+Coloque aqui UMA foto ou UM vídeo para o "Estúdio roxo", com o nome julia:
+
+Vídeo: julia.mp4 (também funciona julia.webm; julia.mov só em alguns navegadores)
+Foto:  julia.jpg (também funciona julia.jpeg, julia.png ou julia.webp)
+
+Se houver vídeo e foto ao mesmo tempo, o vídeo é que aparece.
+O vídeo roda em loop, começa sem som e tem botão "Ativar som".
+A moldura se ajusta ao formato: vertical ou horizontal.
+Dica: um vídeo curto e leve (até uns 30 MB) carrega mais rápido.
+
+Se esta pasta estiver vazia, o site mostra o botão "Escolher foto ou vídeo".
